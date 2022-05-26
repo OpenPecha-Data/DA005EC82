@@ -1,0 +1,22 @@
+id: DA005EC82
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-04-19T06:50:30+00:00'
+last_modified: '2022-05-26T07:49:31.299972+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    '0540':
+      image_group_id: I1PD95850
+      title: གཏོར་མའི་ཆོ་ག།
+      total_pages: 2069
+      order: 5
+      base_file: 0540.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
